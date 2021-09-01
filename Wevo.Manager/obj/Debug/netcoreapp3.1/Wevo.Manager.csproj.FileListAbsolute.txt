@@ -1,0 +1,9 @@
+C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.Manager\bin\Debug\netcoreapp3.1\Wevo.Manager.deps.json
+C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.Manager\bin\Debug\netcoreapp3.1\Wevo.Manager.dll
+C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.Manager\bin\Debug\netcoreapp3.1\Wevo.Manager.pdb
+C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.Manager\obj\Debug\netcoreapp3.1\Wevo.Manager.csproj.AssemblyReference.cache
+C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.Manager\obj\Debug\netcoreapp3.1\Wevo.Manager.AssemblyInfoInputs.cache
+C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.Manager\obj\Debug\netcoreapp3.1\Wevo.Manager.AssemblyInfo.cs
+C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.Manager\obj\Debug\netcoreapp3.1\Wevo.Manager.csproj.CoreCompileInputs.cache
+C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.Manager\obj\Debug\netcoreapp3.1\Wevo.Manager.dll
+C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.Manager\obj\Debug\netcoreapp3.1\Wevo.Manager.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Wevo.Manager/1.0.0": {
+        "runtime": {
+          "Wevo.Manager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wevo.Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

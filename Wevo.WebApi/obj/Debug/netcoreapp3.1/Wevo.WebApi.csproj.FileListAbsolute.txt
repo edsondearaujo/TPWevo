@@ -35,3 +35,5 @@ C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.WebApi\obj\Debug\netc
 C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.WebApi\obj\Debug\netcoreapp3.1\Wevo.WebApi.pdb
 C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.WebApi\obj\Debug\netcoreapp3.1\Wevo.WebApi.genruntimeconfig.cache
 C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.WebApi\obj\Debug\netcoreapp3.1\Wevo.WebApi.csproj.CopyComplete
+C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.WebApi\bin\Debug\netcoreapp3.1\Wevo.Core.dll
+C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.WebApi\bin\Debug\netcoreapp3.1\Wevo.Core.pdb

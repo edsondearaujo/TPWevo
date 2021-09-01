@@ -8,6 +8,16 @@
           "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props": {},
           "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets": {}
         }
+      },
+      "Wevo.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Wevo.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Wevo.Core.dll": {}
+        }
       }
     }
   },
@@ -90,11 +100,17 @@
         "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
         "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll"
       ]
+    },
+    "Wevo.Core/1.0.0": {
+      "type": "project",
+      "path": "../Wevo.Core/Wevo.Core.csproj",
+      "msbuildProject": "../Wevo.Core/Wevo.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.10.14"
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.10.14",
+      "Wevo.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -123,7 +139,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Ed\\source\\repos\\TestePraticoWevo_EdsonSoares\\Wevo.Core\\Wevo.Core.csproj": {
+              "projectPath": "C:\\Users\\Ed\\source\\repos\\TestePraticoWevo_EdsonSoares\\Wevo.Core\\Wevo.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

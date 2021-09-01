@@ -23,7 +23,13 @@ namespace Wevo.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddRazorPages();
+            //services.AddRazorPages();
+            services.AddControllers();
+            // Função lambda
+            services.AddSwaggerGen(lam =>
+            {
+                lam.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "Teste Prático Wevo (Edson Soares)", Version = "v1" });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -40,6 +46,14 @@ namespace Wevo.WebApi
                 app.UseHsts();
             }
 
+            app.UseSwagger();
+            app.UseSwaggerUI(lam =>
+            {
+                lam.RoutePrefix = string.Empty;
+                lam.SwaggerEndpoint("./swagger/v1/swagger.json", "TPW V1");
+            });
+
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
@@ -49,7 +63,7 @@ namespace Wevo.WebApi
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapRazorPages();
+                endpoints.MapControllers();
             });
         }
     }

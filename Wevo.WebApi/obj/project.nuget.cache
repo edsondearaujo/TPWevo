@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "S9ao6NeFn+il7nkNIJoWotk1yvhG5Z8CVuQq/MzFWsRRzMLjHDot6wAkxqUR7aTJvWZttacwwWShW2b0B7v8gg==",
+  "dgSpecHash": "rLcC9oa74xHb/TWd6PexmAqJtC9TqGpZQ2WYmuqdufUoMlFv43Pl57BHpBeVOmAEDbRKAnB5gEImGp88sfV6vQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ed\\source\\repos\\TestePraticoWevo_EdsonSoares\\Wevo.WebApi\\Wevo.WebApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ed\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+    "C:\\Users\\Ed\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ed\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ed\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
+    "C:\\Users\\Ed\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.1\\swashbuckle.aspnetcore.6.2.1.nupkg.sha512",
+    "C:\\Users\\Ed\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.1\\swashbuckle.aspnetcore.swagger.6.2.1.nupkg.sha512",
+    "C:\\Users\\Ed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.1\\swashbuckle.aspnetcore.swaggergen.6.2.1.nupkg.sha512",
+    "C:\\Users\\Ed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.1\\swashbuckle.aspnetcore.swaggerui.6.2.1.nupkg.sha512"
   ],
   "logs": []
 }

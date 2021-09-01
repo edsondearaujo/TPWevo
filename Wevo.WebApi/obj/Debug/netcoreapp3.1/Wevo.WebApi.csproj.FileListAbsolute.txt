@@ -37,3 +37,8 @@ C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.WebApi\obj\Debug\netc
 C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.WebApi\obj\Debug\netcoreapp3.1\Wevo.WebApi.csproj.CopyComplete
 C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.WebApi\bin\Debug\netcoreapp3.1\Wevo.Core.dll
 C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.WebApi\bin\Debug\netcoreapp3.1\Wevo.Core.pdb
+C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ed\source\repos\TestePraticoWevo_EdsonSoares\Wevo.WebApi\obj\Debug\netcoreapp3.1\Wevo.WebApi.MvcApplicationPartsAssemblyInfo.cs
